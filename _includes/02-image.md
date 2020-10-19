@@ -1,1 +1,1 @@
-![Photo of Raphael de Mello](https://media-exp1.licdn.com/dms/image/C5603AQH3SvyaailGUw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=w-5ZsPKf0JHdiJfsqDSeFzQTZbsfNos0KodtbKCwtdc)
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQH3SvyaailGUw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=w-5ZsPKf0JHdiJfsqDSeFzQTZbsfNos0KodtbKCwtdc" alt="Photo of Raphael de Mello" width="100"/>
