@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Raphael de Mello](https://media-exp1.licdn.com/dms/image/C5603AQH3SvyaailGUw/profile-displayphoto-shrink_400_400/0?e=1608768000&v=beta&t=w-5ZsPKf0JHdiJfsqDSeFzQTZbsfNos0KodtbKCwtdc)
